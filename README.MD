@@ -1,5 +1,5 @@
 # MonoPhotoRedux
-A collection of compact monochrome 3D color LUT inspired by analog photography;<br>
+A collection of compact monochrome 3D color LUTs inspired by analog photography;<br>
 _Based on and reworked from my "MonoPhoto" series of LUTs._
 ____
 ## LUTs
